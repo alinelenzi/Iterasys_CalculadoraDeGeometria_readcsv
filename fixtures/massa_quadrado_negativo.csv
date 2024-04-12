@@ -1,0 +1,4 @@
+lado,resultado_esperado
+-1,"O lado do quadrado deve ser maior que zero"
+0,"O lado do quadrado deve ser maior que zero"
+-100,"O lado do quadrado deve ser maior que zero"

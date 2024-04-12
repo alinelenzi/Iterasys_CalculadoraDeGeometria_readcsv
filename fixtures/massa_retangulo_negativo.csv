@@ -1,0 +1,5 @@
+base,altura,resultado_esperado
+0,5,"A base e altura do retangulo devem ser maiores que zero"
+-1,5,"A base e altura do retangulo devem ser maiores que zero"
+8,-2,"A base e altura do retangulo devem ser maiores que zero"
+9, 0,"A base e altura do retangulo devem ser maiores que zero"
